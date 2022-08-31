@@ -1,11 +1,10 @@
-# Emotion-Detection
 # Project Name : Face Emotion Recognition
 
 
 <a id="p1"></a> 
 # Description:
 
-In a physical classroom during a lecture, teacher can see the faces and assess the emotion of the
+In a physical classroom during a lecturing teacher can see the faces and assess the emotion of the
 class and tune their lecture accordingly, whether he is going fast or slow. He can identify students who
 need special attention. Digital classrooms are conducted via video telephony software program (exZoom) where it’s not possible for medium scale class (25-50) to see all students and access the mood. Because of this drawback, students are not focusing on content due to lack of surveillance.
 
@@ -67,6 +66,7 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 The model has been deployed on AWS(Amazon Web Service Servers) 
 
 The deployed model can be seen [here](https://ec2-18-218-107-203.us-east-2.compute.amazonaws.com/)
+
 
 
 
